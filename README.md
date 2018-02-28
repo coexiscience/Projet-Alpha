@@ -12,4 +12,5 @@ Un [Git](https://fr.wikipedia.org/wiki/Git) est un logiciel de gestion de versio
 - Partager des projets
 - …
 
-
+- Les [permissions](https://help.github.com/articles/permission-levels-for-an-organization/-) pour une Organisation
+- Deployer sur le web via [Git Pages](https://pages.github.com/)
